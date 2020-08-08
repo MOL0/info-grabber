@@ -1,0 +1,1 @@
+# Les modules ne doivent pas être réinstallés car j'y ai apporté quelques modifications (ClientUser.phone)
