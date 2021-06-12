@@ -3,6 +3,7 @@
 Téléchargez simplement le zip  
 ![download](./images/download.png)  
 Clic droit extraire  
+Ouvrez cmd dans le dossier et faites `npm i`  
 ### Utilisation
 Ouvrez simplement start.bat et collez le token.  
 ![use](./images/use.png)  
