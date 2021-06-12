@@ -1,5 +1,5 @@
 {
-  "name": "info grabber",
+  "name": "info-grabber",
   "version": "2.2.1",
   "description": "Un tool pour récupérer des infos à partir d'un token",
   "main": "info.js",
